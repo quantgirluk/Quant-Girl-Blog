@@ -277,8 +277,6 @@ These are some of the most popular **books** for preparation. I bought all of th
 - [50 Python Interview Questions and Answers](https://dev.to/educative/50-python-interview-questions-and-answers-nh2) by Dev.to
 
 
-
-
 ### :desktop_computer: Coding Practice
 For learning and practicing coding, I recommend
 
@@ -288,16 +286,17 @@ For learning and practicing coding, I recommend
 - [Pythorch Tutorials](https://pytorch.org/tutorials/)
 
 
-
-
 ### :busts_in_silhouette: Recruiters
 
 Finally, I want to talk a little bit about recruiters. In my experience, having a recruiter can have a huge positive impact on your job search.
 
 - They know the market and have tons of experience with Quant interviews. They can help you to identify your strengths and find jobs that are more in line with them.
+
 - They know people in all the banks and can give you insights on what is happening. They may know if a team is growing (which probably means that they have exciting projects coming... or lots of people leaving) or if a team is looking for juniors rather than experienced candidates.
+
 - They really want to help you to get a job (that is what they do for a living :)) So, even if there is no positions at the moment, they will keep a copy of your resume and may call you later when something new comes up.
-- They can help you to negotiate your salary. As a junior (especially as a recent PhD graduate) negotiating a compensation package can be intimidating. Your recruiter can help you with this.
+- They can help you to negotiate your salary. As a junior (especially as a recent PhD graduate) negotiating a compensation package can be intimidating. Discussing your salary expectations with your recruiter can help you in two ways: (1) it will give you an idea of the salary benchmarks for someone your profile; (2) it can give you confidence to talk about these topics.
+
 - Speaking with recruiters can be useful to get familiar with long telephone conversations. They talk to people every single day and are very confident (you can learn from them!)
 - They are part of the business. You will establish long lasting relationships and every time that you want to take a look at the market you will know who to contact ;)
 
@@ -313,7 +312,19 @@ Yes, absolutely. I did not have any experience (no summer placement, no internsh
 
 #####  How to find a recruiter?
 
-The truth is that they may find you first. When I was still at Warwick recruiters started calling me and sending me messages about opportunities. That is what they do. However, not all recruiters are the same. There are good ones and bad ones. Only experience will tell you who to keep in contact with but a general rule is to look for someone who listen to you and try to understand what you are looking for (or even more, helps you to understand what are the options and to find what is more suitable for your profile and preferences). Don't let recruiters push you to apply for positions that you don't want to. It will be a waste of time for both most likely.
+The truth is that they may find you first. That is what they do. When I was still at Warwick recruiters started calling me and sending me messages about opportunities.
+
+In case they have not find you yet, there are a couple of things that you can do to find them:
+
+- Ask people in your network to recommend you a recruiter.
+- Go to LinkedIn and try to find them either by finding connections or by applying to jobs (when you apply for a job via LinkedIn there is an option to let the person who post it to see your profile).
+- Attend Career Fairs and Networking events
+- Upload your resume to sites such as [e-finalcial careers](https://www.efinancialcareers.co.uk/)
+
+
+As I mentioned, my experience with recruiters have been terrific so far. However, not all recruiters are the same. Some are amazing and others not so much. Only experience will tell you who to keep in contact with but a general rule is to look for someone who listen to you and try to understand what you are looking for (or even more, helps you to understand what are the options and to find what is more suitable for your profile and preferences). Finally, don't let recruiters push you to apply for positions that you don't like. It will be a waste of time for both most likely.
+
+
 
 #####  How do you overcome nervousness in an interview?
 
