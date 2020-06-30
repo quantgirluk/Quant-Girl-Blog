@@ -1,30 +1,31 @@
 # The Quant Project
 
-After finishing my studies at the University of Warwick I decided to become a Quantitative Analyst (a.k.a. a Quant). So, I started looking for jobs in the Financial sector. I applied for lots of positions and attended lots of interviews. The hardest part of this process was not knowing exactly what to expect or how to prepare for the interviews. This is why I want to share some insight with students who may find themselves in a similar position.
+After finishing my studies at the [University of Warwick](https://warwick.ac.uk/) I decided to become a Quantitative Analyst (a.k.a. a Quant). So, I started looking for jobs in the Financial sector. I applied for lots of positions and attended lots of interviews. The hardest part of this process was not knowing exactly what to expect or how to prepare for the interviews. This is why I want to share some insight with students who may find themselves in a similar position.
 
 This post will cover:
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Types of Quant](#types-of-quant)
+- [🔮  Types of Quant](#-types-of-quant)
 - [:school: Skills](#school-skills)
-	- [Maths and Statistics](#maths-and-statistics)
-	- [Programming - Computer Science](#programming-computer-science)
-	- [Others](#others)
-	- [Soft Skills](#soft-skills)
-- [Interview Process](#interview-process)
+	- [🧮 Maths and Statistics](#-maths-and-statistics)
+	- [:computer: Programming](#computer-programming)
+	- [🧰 Other Tools](#-other-tools)
+	- [⚾️ Soft Skills](#-soft-skills)
+
+- [📝 Interview Process](#-interview-process)
 	- [📓Resume](#resume)
 	- [:dart: General Tips](#dart-general-tips)
 	- [:telephone: Telephone Round](#telephone-telephone-round)
 	- [:busts_in_silhouette:  Face to Face Rounds](#bustsinsilhouette-face-to-face-rounds)
-- [Resources](#resources)
+- [🗝 Resources](#-resources)
 	- [:books: Books](#books-books)
 	- [:globe_with_meridians: Free Online Resources](#globewithmeridians-free-online-resources)
 	- [:desktop_computer: Coding Practice](#desktopcomputer-coding-practice)
 	- [:busts_in_silhouette: Recruiters](#bustsinsilhouette-recruiters)
 - [:question: FAQs](#question-faqs)
 
-<!-- /TOC -->
+
+
 
 ---
 ## 🔮  Types of Quant
@@ -69,7 +70,7 @@ Please keep in mind that you don't need to be an expert on everything. Having so
 Besides, every interview will focus on different aspects of these areas depending on the requirements of the job. This is why it is very important to **read carefully the job description** and **tailor your preparation** accordingly.
 
 
-### Maths and Statistics
+### 🧮 Maths and Statistics
 
 - Probability Theory and Statistics
   - Basic Distributions (Normal, Log-Normal, t-Student, Bernoulli, Binomial, Exponential, Poisson, etc.)
@@ -145,7 +146,7 @@ Besides, every interview will focus on different aspects of these areas dependin
 
 
 
-### Programming
+### :computer: Programming
 
 The level of programming skills will depend on the kind of job. Broadly speaking junior roles (immediately after uni or less than 2-3 years experience) will require a basic to medium level of programming. Programming languages vary among banks but I would say Python and C++ are the most popular in the industry.
 
@@ -156,7 +157,7 @@ The level of programming skills will depend on the kind of job. Broadly speaking
 - [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)  are very popular in the quant interviews.
 - Complexity of different algorithms. For this purpose, I seriously recommend you to take a look at the [Big O Cheat Sheet](https://www.bigocheatsheet.com/) 😃
 
-### Other Tools
+### 🧰 Other Tools
 
 - Data Basis
   - SQL
@@ -171,7 +172,7 @@ The level of programming skills will depend on the kind of job. Broadly speaking
 - Office - Yes, I know this sounds a little bit outdated but I have to say that Excel, Word, and PowerPoint are still very well regarded within banking.
 
 
-### Soft Skills
+### ⚾️ Soft Skills
 
 In addition to all the technical knowledge, you will need to cultivate your _Soft Skills_. These are by no means less important than hard skills!
 
@@ -215,7 +216,7 @@ Banking, as most of the industries nowadays, is changing constantly and at a rap
 
 ---
 
-## Interview Process
+## 📝 Interview Process
 
 ### 📓Resume
 
@@ -262,7 +263,7 @@ Then there are several face to face (or teleconference) interviews. Here you wil
 - Ask for the next stages of the hiring process.
 
 ---
-## Resources
+##  🗝 Resources
 
 ### :books: Books
 
@@ -399,5 +400,9 @@ Transitioning from Academia into Finance can be a hard decision. But you can be 
 - Writing technical documents
 - Presenting your work to others
 
+---
+
+Finally, If you have any further questions please feel free to contact me via my [personal Website](https://quantgirl.blog/contact/) or [LinkedIn](https://www.linkedin.com/in/dialidsantiago/).
+All the best in  your job hunting, I am sure you will do great 🌟
 
 ---
