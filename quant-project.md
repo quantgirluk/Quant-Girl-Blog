@@ -27,7 +27,7 @@ This post will cover:
 <!-- /TOC -->
 
 ---
-## Types of Quant
+## 🔮  Types of Quant
 
 As you may know there are many types of Quants and they do different things and  require different skill sets.
 
@@ -35,31 +35,27 @@ As you may know there are many types of Quants and they do different things and 
 
 - Front Office/Desk Quants/Algorithmic Trading
 
-Implement pricing models, analytics, and algorithms directly used for trading (either by traditional traders or algo-traders) and sales.
+They implement pricing models, analytics, and algorithms directly used for trading (either by traditional traders or algo-traders) and sales.
 
 These quants develop models to work out the prices of assets on the markets and manage them: what to buy at and what to sell at etc. The calculations they make also help to provide guidance on risk management and support the traders in the development of their risk strategies. They are also busy on the investment/business development side of things, using their mathematical and statistical techniques to spot potential new investment opportunities.
 
 - Risk Management
 
-Risk quants belong to the middle office. Quants in this area produce analytics on the different kinds of risk (market, counterparty, wholesale etc.) and communicate their findings to risk managers. They also own the regulatory capital calculations and internal risk management measures.
+Risk quants belong to the middle office and focus on one or more risk areas such as Market, Counterparty, Wholesale, or Liquidity Risk. Quants in this area produce analytics on the different kinds of risk and communicate their findings to risk managers. They also own the regulatory capital calculations and internal risk management measures.
 
 - Model Validation
 
-Independently review and implement pricing/risk models in order to assess their soundness and quantify its limitations.
+Independently review and implement pricing/risk models in order to assess their soundness and quantify its limitations. This kind of job is great to learn about many different models in a short period of time.
 
 ### By Activity
 
-- Researcher
+- 👨‍💼 👩‍💼  Researcher
 
-As the name indicates, the job involves conducting research to solve problems that arise within the bank (e.g. creating  pricing models for new products, improving simulation models, developing new trading algorithms, etc.) These are the most suitable positions for those who love mathematics. It is also an ideal way to get a smooth transition from academia to finance.
+As the name indicates, the job involves conducting research to solve problems that arise within the bank (e.g. creating  pricing models for new products, improving simulation models, developing new trading algorithms, etc.) These are the most suitable positions for those who love mathematics. It is also an ideal way to get a smooth transition from academia to finance. These jobs usually require a basic to medium level of coding.
 
-These jobs usually require a basic to medium level of coding.
+- 👨‍💻 👩‍💻 Developer
 
-- Developer
-
-Again, as the name indicates this kind of job involves implementation. This includes, implementation and maintaining of models (sometimes developed by other people), process automation (e.g. move a process from 100 spreadsheets to a web application).
-
-Unsurprisingly, these jobs usually require a medium to high level of coding.
+Again, as the name indicates this kind of job involves implementation. This includes, implementation and maintaining of models (sometimes developed by other people), process automation (e.g. move a process from 100 spreadsheets to a web application). Unsurprisingly, these jobs usually require a medium to high level of coding.
 
 
 ---
@@ -77,7 +73,7 @@ Besides, every interview will focus on different aspects of these areas dependin
 
 - Probability Theory and Statistics
   - Basic Distributions (Normal, Log-Normal, t-Student, Bernoulli, Binomial, Exponential, Poisson, etc.)
-  - Basic Probability Concepts such as Expectation, Variance, Quantiles (for some reason that I still don't understand people in banks prefer to call them percentiles),  CDF, PDF, etc.
+  - Basic Probability Concepts such as Expectation, Variance, Standard Deviation, Covariance, Correlation, Quantiles (many people in banks prefer to call them percentiles),  CDF, PDF, etc.
   - [Law of Large Numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
   - [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)
 
@@ -93,7 +89,7 @@ Besides, every interview will focus on different aspects of these areas dependin
 - Stochastic Processes
   - [Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion)/[Wiener Process](https://en.wikipedia.org/wiki/Wiener_process)
   - [Geometric Brownian Motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion) Solving the GBM equation is a very common question for junior quants interviews.
-  - [Orstein-Ulehbeck](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process)
+  - [Orstein-Ulehbeck](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process) I got this SDE in a couple of interviews as well.
   - [Martingale](https://en.wikipedia.org/wiki/Martingale_(probability_theory))
   - [Ito's Formula](https://en.wikipedia.org/wiki/It%C3%B4%27s_lemma) (Mainly to calculate expectations and solve SDEs)
   - [Black-Scholes Model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) in terms of SDEs
@@ -141,6 +137,13 @@ Besides, every interview will focus on different aspects of these areas dependin
       - [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent)
   - [Finite Differences Method](https://en.wikipedia.org/wiki/Finite_difference_method)
 
+- Financial Mathematics
+
+	- [Value at Risk](https://en.wikipedia.org/wiki/Value_at_risk)
+	- [Expected Shortfall](https://en.wikipedia.org/wiki/Expected_shortfall)
+	- [The Greeks](https://en.wikipedia.org/wiki/Greeks_(finance))
+
+
 
 ### Programming
 
@@ -182,19 +185,33 @@ In every interview, the interviewers want to answer two important questions:
 
 The first question will be covered by the technical part of the interview. The second one is more difficult. Here are some important soft skills that you can focus on ahead of an interview:
 
-- Communication
+#### Communication
 
-Tip: Prepare a 5 minutes summary of your PhD/MSc thesis.
-In many interviews I have been asked to explain my PhD thesis in simple terms. I know that every PhD can talk for hours and hours about his/her dissertation... however the key here is in the last bit **simple terms**. Try to prepare a 10 minutes summary of your PhD avoiding too technical terms (this is particularly challenging for theoretical mathematicians but it is worth the effort). Then try to cut it in half the time by making it briefer.
+For this, I recommend to prepare a 5 minutes summary of your PhD/MSc thesis. In many interviews I have been asked to explain my PhD thesis in simple terms. I know that every PhD can talk for hours and hours about his/her dissertation... however the key here is the  **simple terms** bit. Try to prepare a 10 minutes summary of your PhD avoiding too technical terms (this is particularly challenging for theoretical mathematicians but it is worth the effort). Then try to cut it in half the time by making it briefer. Try to answer the following questions:
 
-- Collaboration
+- What was the topic of your thesis?
+- What was the research contribution?
+- What are the implications? Theoretical/Applications/Improvements of Existing Results
+
+
+If you have experience in finance, then you can do the same exercise with the projects that you have listed on your resume. The idea is to practice how to effectively communicate:
+
+- What was the project about?
+- What was your role on it? Leader/Individual Contributor/Main Owner
+- What was your main contributions? Technical/Implementation/Presenting the project to stakeholders and/or regulators/Strategy and Planning
+- What was the outcome of the project? Model submission/ New Algorithm Approved/ Improvement/ Process Automation.
+
+
+#### Collaboration
 
 As I mentioned, you won't work alone. Projects in the industry are so big that is difficult (or impossible) for one person to do everything. Thus, you have to learn to work efficiently as a member of a team.
 
 
-- Adaptability
+#### Adaptability
 
-Banking as most of the industries nowadays is changing constantly and at a rapid pace. So you need to be able to
+Banking, as most of the industries nowadays, is changing constantly and at a rapid pace. This means making sure that your education does not stop once you land a job. On the contrary, use the first months in the job to find out what are the most valuable skills in your area. Then, do a self-assessment and identify those areas that need improvement.
+
+
 
 ---
 
@@ -211,21 +228,20 @@ Besides, be prepared for explaining your resume in **full**. This means, making 
 ### :dart: General Tips
 
 
-⭐**Online Presence**⭐ Keep in mind that your interviewer(s) will (almost surely) make a quick Google search with your name on it. So be mindful about your online image. Use your online presence to display your skills ⭐
+⭐**Online Presence**⭐ Keep in mind that your interviewer(s) will (almost surely) make a quick Google search with your name on it. So be mindful about your online image. Use your online presence to display your skills. You can use platforms like:
 
-  - GitHub
-  - Personal Website
-  - RPubs collection
-  - Kaggle profile
+  - [GitHub](https://github.com/quantgirluk)
+  - [Personal Website](https://quantgirl.blog/)
+  - [RPubs collection](https://rpubs.com/FJRubio/)
+  - [Kaggle profile](https://www.kaggle.com/rankings)
 
-
-
-⭐**Continuous Learning**⭐ Include all your (MOOCs) Massive Open Online Courses certifications in your resume. It shows that you are motivated,  committed to your development, and can learn new stuff independently. So, don't forget all those Coursera, DataCamp, Udemy, Pluralsight, etc. certifications.
+⭐**Continuous Learning**⭐ Include all your (MOOCs) Massive Open Online Courses certifications in your resume. It shows that you are motivated,  committed to your development, and can learn new stuff independently. So, don't forget all those [Coursera](https://www.coursera.org/), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Pluralsight](https://www.pluralsight.com/), etc. certifications.
 
 
 ⭐**Keep it Real**⭐ Be honest when you don't know. This is much better than inventing something. Nobody knows everything and the people who are interviewing you know that. So please, don't be scared to ask for hints or suggestions. I have seen many candidates who are struggling with a question but just need a small hint and then they figure out the rest pretty quickly! This looks great because  it shows that you can deal with difficult situations, ask for help, use that help to get a positive outcome!
 
-⭐**Show Interest**⭐ Ask Questions about the team, what it does? how is the structure (is it a big or small team, are you being hired for a particular project, for a backfill, or for a team expansion)
+⭐**Show Interest**⭐ Ask Questions about the team, what it does?  is it a big or small? is everybody in the same location or in different places?, are you being hired for a particular project, for a backfill, or as part of a team expansion plan? what will the main task be? who are the "customers" of the team? what are the main objectives of the team? what are the opportunities to learn and grow? what are the main programming languages used in the team?
+
 
 ### :telephone: Telephone Round
 
@@ -295,7 +311,8 @@ Finally, I want to talk a little bit about recruiters. In my experience, having 
 - They know people in all the banks and can give you insights on what is happening. They may know if a team is growing (which probably means that they have exciting projects coming... or lots of people leaving) or if a team is looking for juniors rather than experienced candidates.
 
 - They really want to help you to get a job (that is what they do for a living :)) So, even if there is no positions at the moment, they will keep a copy of your resume and may call you later when something new comes up.
-- They can help you to negotiate your salary. As a junior (especially as a recent PhD graduate) negotiating a compensation package can be intimidating. Discussing your salary expectations with your recruiter can help you in two ways: (1) it will give you an idea of the salary benchmarks for someone your profile; (2) it can give you confidence to talk about these topics.
+
+- They can help you to negotiate your salary. As a junior (especially as a recent graduate) negotiating a compensation package can be intimidating. Discussing your salary expectations with your recruiter can help you in two ways: (1) it will give you an idea of the salary benchmarks for someone your profile; (2) it can give you confidence to talk about these topics.
 
 - Speaking with recruiters can be useful to get familiar with long telephone conversations. They talk to people every single day and are very confident (you can learn from them!)
 - They are part of the business. You will establish long lasting relationships and every time that you want to take a look at the market you will know who to contact ;)
@@ -312,17 +329,17 @@ Yes, absolutely. I did not have any experience (no summer placement, no internsh
 
 #####  How to find a recruiter?
 
-The truth is that they may find you first. That is what they do. When I was still at Warwick recruiters started calling me and sending me messages about opportunities.
+The truth is that they may find you first. That is what they do. When I was still at Warwick recruiters started calling me and sending me messages about opportunities. In case they have not find you yet, there are a couple of things that you can do to find them:
 
-In case they have not find you yet, there are a couple of things that you can do to find them:
-
-- Ask people in your network to recommend you a recruiter.
-- Go to LinkedIn and try to find them either by finding connections or by applying to jobs (when you apply for a job via LinkedIn there is an option to let the person who post it to see your profile).
+- Ask people in your network to recommend you a recruiter
+- Go to [LinkedIn](https://www.linkedin.com/feed/) and try to find them either by finding connections or by applying to jobs. There are two useful features:
+	- In your profile there is an option that says _"Show recruiters that you are open to work"_
+	- Moreover, when you apply for a job in LinkedIn there is an option to let the person who post it to see your profile
 - Attend Career Fairs and Networking events
 - Upload your resume to sites such as [e-finalcial careers](https://www.efinancialcareers.co.uk/)
 
 
-As I mentioned, my experience with recruiters have been terrific so far. However, not all recruiters are the same. Some are amazing and others not so much. Only experience will tell you who to keep in contact with but a general rule is to look for someone who listen to you and try to understand what you are looking for (or even more, helps you to understand what are the options and to find what is more suitable for your profile and preferences). Finally, don't let recruiters push you to apply for positions that you don't like. It will be a waste of time for both most likely.
+I want to finish this telling you that my experience with recruiters has been terrific so far. However, not all recruiters are the same. Some are amazing and others not so much. Only experience will tell you who to keep in contact with but a general rule is to look for someone who  listens to you and makes an effort to understand what **you are looking for** (or even more, helps you to see what are the options and find which one is more suitable for your profile and preferences). Finally, don't let recruiters push you to apply for positions that you don't like. It will be a waste of time for both most likely.
 
 
 
@@ -345,7 +362,7 @@ Not really but it can help you to differentiate yourself from other candidates.
 ##### What has been the hardest part of transitioning to Finance?
 Here are the 3 harder things from my transition from PhD student to Quantitative analyst:
 
-**1. Missing Academia.** In baking, especially as a junior, you will have to do some tasks which are not particularly challenging from an intellectual point of view.  For example, cleaning data, copy-paste tasks, updating spreadsheets, organising files, etc. This is totally normal and part of the learning experience. But in those moments you cannot help but miss academia (the old good days when you were doing frontier research with your supervisor). However, you have to be patient and don't stress too much about it. I can guarantee that there are plenty of interesting areas and problems waiting to be solved in the industry.
+**1. Missing Academia.** In banking, especially as a junior, you will have to do some tasks which are not particularly challenging from an intellectual point of view.  For example, cleaning data, copy-paste tasks, updating spreadsheets, organising files, etc. This is totally normal and part of the learning experience. But in those moments you cannot help but miss academia (the old good days when you were doing frontier research with your supervisor). However, you have to be patient and don't stress too much about it. I can guarantee that there are plenty of interesting areas and problems waiting to be solved in the industry.
 
 **2. The noise in the office.**  As a student I was used to work on a very quiet environment (either sharing an office with other graduate students or at home on my own). So, when I went to banking the noise was a shock to me. So many people sitting on an open space having telephone conversations or video-conferences at the same time. I remember thinking how can these people focus and read a technical document in the middle of this chaos? ... After a couple of months I got used to it (and of course now I am also one of the people constantly over the phone ☎️😏 probably annoying new comers!). Top secret (not so secret) I got a pair of noise cancelling headphones 🎧😄
 
