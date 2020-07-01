@@ -1,6 +1,8 @@
 # The Quant Project
 
-After finishing my studies at the [University of Warwick](https://warwick.ac.uk/) I decided to become a Quantitative Analyst (a.k.a. a Quant). So, I started looking for jobs in the Financial sector. I applied for lots of positions and attended lots of interviews. The hardest part of this process was not knowing exactly what to expect or how to prepare for the interviews. This is why I want to share some insight with students who may find themselves in a similar position.
+After finishing my studies at the [University of Warwick](https://warwick.ac.uk/) I decided to become a Quantitative Analyst (a.k.a. a Quant) and started looking for jobs in the Financial sector. I moved to London, applied for lots of positions, attended career events, sent my resume to tons of people,  and had many interviews.
+
+ Finally, in June 2016 I got my first job  and I have been working as a quant since then. One of the hardest part of this process was not knowing exactly what to expect or how to prepare for the interviews. This is why I want to share some insight with students who may find themselves in a similar position.
 
 This post will cover:
 
@@ -62,7 +64,7 @@ Again, as the name indicates this kind of job involves implementation. This incl
 ---
 ## :school: Skills
 
-Hard Skills to become a quant can be classified in three areas: **Maths, Statistics, and Programming**. Next is a list of concepts that would give you a good foundation for the interviews. This list is (of course) not exhaustive but if you are familiar with all these concepts, you will be in a good path to pass your interviews.
+Hard Skills to become a quant can be classified in three areas: **Maths, Statistics, and Programming**. Next is a list of concepts that would give you a good foundation for the interviews. This list is definitely not exhaustive but if you are familiar with all these concepts, you will be in a good path to pass your interviews.
 
 
 Please keep in mind that you don't need to be an expert on everything. Having some knowledge on the basics of each topic is enough to start your career. Once you start in your new position you can focus on strengthening the areas that you use the most on your everyday activities.
@@ -90,7 +92,7 @@ Besides, every interview will focus on different aspects of these areas dependin
 - Stochastic Processes
   - [Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion)/[Wiener Process](https://en.wikipedia.org/wiki/Wiener_process)
   - [Geometric Brownian Motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion) Solving the GBM equation is a very common question for junior quants interviews.
-  - [Orstein-Ulehbeck](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process) I got this SDE in a couple of interviews as well.
+  - [Ornstein–Uhlenbeck](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process) I got this SDE in a couple of interviews as well.
   - [Martingale](https://en.wikipedia.org/wiki/Martingale_(probability_theory))
   - [Ito's Formula](https://en.wikipedia.org/wiki/It%C3%B4%27s_lemma) (Mainly to calculate expectations and solve SDEs)
   - [Black-Scholes Model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) in terms of SDEs
@@ -148,19 +150,19 @@ Besides, every interview will focus on different aspects of these areas dependin
 
 ### :computer: Programming
 
-The level of programming skills will depend on the kind of job. Broadly speaking junior roles (immediately after uni or less than 2-3 years experience) will require a basic to medium level of programming. Programming languages vary among banks but I would say Python and C++ are the most popular in the industry.
+The level of programming skills will depend on the kind of job. Broadly speaking junior roles (immediately after graduation or with less than 2-3 years experience) will require a basic to medium level of programming. Programming languages vary among banks but I would say [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [R](https://en.wikipedia.org/wiki/R_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), and [C++](https://en.wikipedia.org/wiki/C%2B%2B) are currently the most popular in the industry.
 
-- Python and R are typically used to prototype models, perform data analysis, testing alternative models, etc.
+- [Python](https://www.python.org/) and [R](https://www.r-project.org/) are typically used to prototype models, perform data analysis, and testing alternative models.
 
-- C++ or Java are typically used for production libraries.
+- C++ and Java are typically used for production libraries.
 
 - [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)  are very popular in the quant interviews.
-- Complexity of different algorithms. For this purpose, I seriously recommend you to take a look at the [Big O Cheat Sheet](https://www.bigocheatsheet.com/) 😃
+- Complexity of different algorithms. For this purpose, I recommend taking a look at the [Big O Cheat Sheet](https://www.bigocheatsheet.com/) 😃
 
 ### 🧰 Other Tools
 
 - Data Basis
-  - SQL
+  - [SQL](https://www.w3schools.com/sql/)
 - Scientific Writing
   - [Latex](https://www.latex-project.org/about/) - I am happy to report that most quant teams have adopted Latex to write their documentation. Thus, your experience with Latex will become very useful :sunglasses:
   - [Markdown](https://www.markdownguide.org/getting-started/)
@@ -169,7 +171,9 @@ The level of programming skills will depend on the kind of job. Broadly speaking
     - [Perforce](https://en.wikipedia.org/wiki/Perforce) (p4)
     - [Git](https://git-scm.com/), [GitHub](https://github.com/)
 
-- Office - Yes, I know this sounds a little bit outdated but I have to say that Excel, Word, and PowerPoint are still very well regarded within banking.
+- Office - Yes, this sounds a little bit outdated but I have to say that Excel, Word, and PowerPoint are still very well regarded within banking.
+
+- Financial knowledge. Interviews for junior roles usually do not focus so much on your financial knowledge (you will learn on the job 😃) but it is a good idea to learn a bit before going for an interview. A book that helped me greatly to get familiar with finance was [Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading](https://www.amazon.co.uk/Inside-Black-Box-Quantitative-Frequency/dp/1118362411).
 
 
 ### ⚾️ Soft Skills
@@ -224,7 +228,9 @@ Before sending your applications, take some time to update your resume and Linke
 
 Get ready to answer the most common question: **Walk me through your resume**. Practice at home by trying to describe your academic background and experience in 5 to 10 minutes. The idea is to introduce yourself and give the interviewer a broad idea of your experiences and how they are relevant for the job. This question usually aims to open the conversation so you maybe interrupted and asked to elaborate on certain points.
 
-Besides, be prepared for explaining your resume in **full**. This means, making sure that you know **every single word** written on it. If you don't know it well, don't write it on your resume. Your interviewer expects you to be able to explain all the things written there.
+Be prepared for explaining your resume in **full**. This means, making sure that you know **every single word** written on it. If you don't know it well, don't write it on your resume. Your interviewer expects you to be able to explain all the things written there.
+
+
 
 ### :dart: General Tips
 
@@ -238,10 +244,21 @@ Besides, be prepared for explaining your resume in **full**. This means, making 
 
 ⭐**Continuous Learning**⭐ Include all your (MOOCs) Massive Open Online Courses certifications in your resume. It shows that you are motivated,  committed to your development, and can learn new stuff independently. So, don't forget all those [Coursera](https://www.coursera.org/), [DataCamp](https://www.datacamp.com/), [Udemy](https://www.udemy.com/), [Pluralsight](https://www.pluralsight.com/), etc. certifications.
 
+⭐**Ad-hoc Preparation**⭐ Once you have been invited for an interview, tailor your preparation towards that particular job.
+
+Do a quick Google search on your interviewers.
+Read carefully the job description, find what are the basic and preferred qualifications and match them with your resume and experience. When doing this, please remember that you don't have to meet all the requirements to get the job. The idea is being aware of what you have to offer and focusing your preparation on the weak points.
+
+For instance, let's think of the following scenario:  the job description says that Python is the preferred language but you don't have experience with it. Then you can do the following:
+(1) Before the interview, you can get some familiarity with Python basic concepts. For instance, you can install Anaconda on your computer and start playing with Python, or complete some online tutorials. In this way, you will get more comfortable and during the interview you can say that you are not an experience Python programmer but you are keen to learn.
+(2) During the interview, you can mention your experience with other languages. Most of the questions can be answered in any programming language. So you can just tell the interviewer which language you are most comfortable with.
+
 
 ⭐**Keep it Real**⭐ Be honest when you don't know. This is much better than inventing something. Nobody knows everything and the people who are interviewing you know that. So please, don't be scared to ask for hints or suggestions. I have seen many candidates who are struggling with a question but just need a small hint and then they figure out the rest pretty quickly! This looks great because  it shows that you can deal with difficult situations, ask for help, use that help to get a positive outcome!
 
 ⭐**Show Interest**⭐ Ask Questions about the team, what it does?  is it a big or small? is everybody in the same location or in different places?, are you being hired for a particular project, for a backfill, or as part of a team expansion plan? what will the main task be? who are the "customers" of the team? what are the main objectives of the team? what are the opportunities to learn and grow? what are the main programming languages used in the team?
+
+
 
 
 ### :telephone: Telephone Round
@@ -318,17 +335,17 @@ Finally, I want to talk a little bit about recruiters. In my experience, having 
 - Speaking with recruiters can be useful to get familiar with long telephone conversations. They talk to people every single day and are very confident (you can learn from them!)
 - They are part of the business. You will establish long lasting relationships and every time that you want to take a look at the market you will know who to contact ;)
 
-You may be wondering how to find a recruiter. See the FAQs below.
+You may be wondering how to find a recruiter. See the [FAQ section](#question-faqs) below.
 
 ---
 
 ## :question: FAQs
 
 
-##### Can I become a quant if I have no experience in banking?
+#### Can I become a quant if I have no experience in banking?
 Yes, absolutely. I did not have any experience (no summer placement, no internships).
 
-#####  How to find a recruiter?
+####  How to find a recruiter?
 
 The truth is that they may find you first. That is what they do. When I was still at Warwick recruiters started calling me and sending me messages about opportunities. In case they have not find you yet, there are a couple of things that you can do to find them:
 
@@ -344,11 +361,11 @@ I want to finish this telling you that my experience with recruiters has been te
 
 
 
-#####  How do you overcome nervousness in an interview?
+####  How do you overcome nervousness in an interview?
 
 Be confident in your technical skills and remind yourself that nobody knows everything. Moreover, as a recent graduate you will bring novelty and fresh air to the industry! So, please keep in mind that you have something very valuable to offer to the team.
 
-#####  What does your typical day look like?
+####  What does your typical day look like?
 
 As a risk management quant a typical day consists of
 - reading and replying to e-mails
@@ -356,11 +373,11 @@ As a risk management quant a typical day consists of
 - attending various meetings for administrative purposes such as planning, prioritising, and organising future work;
 
 
-#####  Do I need a certification (e.g. CFA, FRM or CQF)?
+####  Do I need a certification (e.g. CFA, FRM or CQF)?
 
 Not really but it can help you to differentiate yourself from other candidates.
 
-##### What has been the hardest part of transitioning to Finance?
+#### What has been the hardest part of transitioning to Finance?
 Here are the 3 harder things from my transition from PhD student to Quantitative analyst:
 
 **1. Missing Academia.** In banking, especially as a junior, you will have to do some tasks which are not particularly challenging from an intellectual point of view.  For example, cleaning data, copy-paste tasks, updating spreadsheets, organising files, etc. This is totally normal and part of the learning experience. But in those moments you cannot help but miss academia (the old good days when you were doing frontier research with your supervisor). However, you have to be patient and don't stress too much about it. I can guarantee that there are plenty of interesting areas and problems waiting to be solved in the industry.
@@ -369,7 +386,7 @@ Here are the 3 harder things from my transition from PhD student to Quantitative
 
 **3. Change happens slowly in big corporations.** As a PhD student you have all the freedom and control on your projects, priorities, and timelines. In a big company you will be part of a team (which is in turn part of a bigger team, division or department) with a hierarchical structure, where things work on a certain way and you won't have as much freedom and control on the decision making process. So, you may encounter that improving/changing something (a methodology, a process, a way of doing things) can be a slow and hard process. But you have to learn and adapt to the new rhythm. There are things in banking that move super fast but others not so much and you have to learn to be persistent and patient at the same time. If you have an idea :bulb:  that you  think can help the team to do things better ⭐, share it with your manager, push for it, try to make it happen. Don't be discouraged if it cannot be implemented immediately. Sometimes change takes time.
 
-##### What has been the most enjoyable part of transitioning to Finance?
+#### What has been the most enjoyable part of transitioning to Finance?
 
 **1. Growing Horizontally.**  As a graduate student I spend years deepening my knowledge on a small area of mathematics. When I moved to banking I started expanding my knowledge horizontally. This is possible because there is a great variety of projects that you can work on. I started working on credit scorecards
 
@@ -378,7 +395,7 @@ Here are the 3 harder things from my transition from PhD student to Quantitative
 
 **3. The Market is very Exciting.**  You cannot get bored in banking. There is always something happening in the markets. From regulatory changes and political turmoil to interest rates cuts and tax wars among countries. This constant change brings new challenges and opportunities.
 
-##### Do you need a PhD to become a quant?
+#### Do you need a PhD to become a quant?
 
 No, you don't need a PhD but if you have one, then you have already acquired a bunch of transferrable skills that will be super valuable in finance.
 
@@ -387,7 +404,7 @@ Many MSc' students have asked me if they should do a PhD before starting a caree
 In my opinion, the key is being passionate about what you are doing. Once you start working as a quant, you will learn (all what you need to do your job) by doing instead of studying.
 
 
-##### Some further thoughts on the PhD element
+#### Some further thoughts on the PhD element
 
 Transitioning from Academia into Finance can be a hard decision. But you can be sure that PhD are very welcome in Finance. Don't be afraid and please remember that you have acquired lots of transferrable skills. At the end of the day, working as a quant means solving difficult problems using mathematical tools and you have experience with this. Here is a short list of the skills that I learned during my PhD and have been useful in the industry.
 
