@@ -12,4 +12,5 @@ Jupyter Notebooks
 - [Brownian Motion via Donsker Theorem](https://quantgirl.blog/donsker-random-walk/)
 - [Word Clouds](https://quantgirl.blog/word-clouds-with-python/)
 - [Fertility Rate in Mexico](https://quantgirl.blog/data-stories/)
+- [The Perfect Valentine](https://quantgirl.blog/the-perfect-valentine/)
 
