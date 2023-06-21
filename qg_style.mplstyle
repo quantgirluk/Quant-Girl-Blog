@@ -406,7 +406,7 @@ text.usetex: True  # use latex for all text handling. The following fonts
 axes.spines.left:   True  # display axis spines
 axes.spines.bottom: True
 axes.spines.top:    False
-axes.spines.right:  Falseßß
+axes.spines.right:  False
 
 #axes.unicode_minus: True  # use Unicode for the minus symbol rather than hyphen.  See
                            # https://en.wikipedia.org/wiki/Plus_and_minus_signs#Character_codes
