@@ -526,7 +526,7 @@ axes.prop_cycle: cycler('color', ['0079ff', 'ffb84c', '00dfa2', 'f266ab', 'a459d
 ## * LEGEND                                                                  *
 ## ***************************************************************************
 #legend.loc:           best
-#legend.frameon:       True     # if True, draw the legend on a background patch
+legend.frameon:       False     # if True, draw the legend on a background patch
 #legend.framealpha:    0.8      # legend patch transparency
 #legend.facecolor:     inherit  # inherit from axes.facecolor; or color spec
 #legend.edgecolor:     0.8      # background patch boundary color
@@ -559,7 +559,6 @@ axes.prop_cycle: cycler('color', ['0079ff', 'ffb84c', '00dfa2', 'f266ab', 'a459d
 #figure.labelsize:   large     # size of the figure label (``Figure.sup[x|y]label()``)
 #figure.labelweight: normal    # weight of the figure label
 #figure.figsize:     6.4, 4.8  # figure size in inches
-figure.figsize:     12, 8  # figure size in inches
 #figure.dpi:         100       # figure dots per inch
 #figure.facecolor:   white     # figure face color
 #figure.edgecolor:   white     # figure edge color
