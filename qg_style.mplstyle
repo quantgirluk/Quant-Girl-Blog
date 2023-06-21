@@ -310,7 +310,7 @@
 ## ***************************************************************************
 ## For more information on LaTeX properties, see
 ## https://matplotlib.org/stable/tutorials/text/usetex.html
-#text.usetex: False  # use latex for all text handling. The following fonts
+text.usetex: True  # use latex for all text handling. The following fonts
                      # are supported through the usual rc parameter settings:
                      # new century schoolbook, bookman, times, palatino,
                      # zapf chancery, charter, serif, sans-serif, helvetica,
@@ -403,10 +403,10 @@
                                      # at least this number of significant
                                      # digits from tick labels.
 
-#axes.spines.left:   True  # display axis spines
-#axes.spines.bottom: True
-#axes.spines.top:    True
-#axes.spines.right:  True
+axes.spines.left:   True  # display axis spines
+axes.spines.bottom: True
+axes.spines.top:    False
+axes.spines.right:  Falseßß
 
 #axes.unicode_minus: True  # use Unicode for the minus symbol rather than hyphen.  See
                            # https://en.wikipedia.org/wiki/Plus_and_minus_signs#Character_codes
@@ -559,10 +559,11 @@ axes.prop_cycle: cycler('color', ['0079FF', 'FFB84C', '00DFA2', 'F266AB', 'A459D
 #figure.labelsize:   large     # size of the figure label (``Figure.sup[x|y]label()``)
 #figure.labelweight: normal    # weight of the figure label
 #figure.figsize:     6.4, 4.8  # figure size in inches
+figure.figsize:     12, 8  # figure size in inches
 #figure.dpi:         100       # figure dots per inch
 #figure.facecolor:   white     # figure face color
 #figure.edgecolor:   white     # figure edge color
-#figure.frameon:     True      # enable figure frame
+figure.frameon:    False      # enable figure frame
 #figure.max_open_warning: 20   # The maximum number of figures to open through
                                # the pyplot interface before emitting a warning.
                                # If less than one this feature is disabled.
