@@ -8,14 +8,14 @@ plt.style.use(
     "https://raw.githubusercontent.com/quantgirluk/matplotlib-stylesheets/main/quant-pastel-light.mplstyle")
 plt.rcParams.update({
     "font.family": "serif",
-    "font.serif": "Times",
+    "font.serif": "New Century Schoolbook",
 })
 
 n = 20
 p = 0.3
 rv = binom(n=n, p=p)
 x = np.arange(0, n + 1, 1)
-title = f"\n Binomial Distribution: $X \\sim Bin(n={n}, p={p})$"
+title = f"\n Binomial Distribution \n $X \\sim Bin(n={n}, p={p})$"
 
 fig = plt.figure(figsize=(10, 5), dpi=150)
 gs = GridSpec(1, 4, wspace=0.5)
@@ -30,7 +30,7 @@ plt.plot(x, rv.cdf(x), drawstyle='steps-post',
 ax2.plot(x, rv.cdf(x), color='hotpink', marker='o', linestyle='')
 
 ax1.set_title('Probability Mass Function', y=-0.18)
-ax2.set_title('Cummulative Distribution Function', y=-0.18)
+ax2.set_title('Cumulative Distribution Function', y=-0.18)
 
 fig.suptitle(title)
 gs.tight_layout(fig)
