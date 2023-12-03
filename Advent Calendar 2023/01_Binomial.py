@@ -6,10 +6,6 @@ import numpy as np
 
 plt.style.use(
     "https://raw.githubusercontent.com/quantgirluk/matplotlib-stylesheets/main/quant-pastel-light.mplstyle")
-plt.rcParams.update({
-    "font.family": "serif",
-    "font.serif": "New Century Schoolbook",
-})
 
 n = 20
 p = 0.3
@@ -35,5 +31,5 @@ ax2.set_title('Cumulative Distribution Function', y=-0.18)
 fig.suptitle(title)
 gs.tight_layout(fig)
 
-fig.savefig('01_Binomial')
+# fig.savefig('01_Binomial')
 plt.show()
