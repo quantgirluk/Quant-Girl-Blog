@@ -1,7 +1,7 @@
 # Advent Calendar 2023
 
 This year I will use the countdown to Christmas 🎄 to review some probability distributions and will be sharing them in my blog and social networks.
-Visit the calenar details [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Advent%20Calendar%202023).
+Calendar details and code [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Advent%20Calendar%202023).
 
 # Quant-Girl-Blog
 
