@@ -10,7 +10,7 @@ This repo contains the Python scripts to create the images.
 2. Beta 
 3. Cauchy
 4. Pareto
-5.  --
+5. Poisson
 6.  --
 7.  --
 8.  --
