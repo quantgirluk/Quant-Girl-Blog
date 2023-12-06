@@ -11,7 +11,7 @@ This repo contains the Python scripts to create the images.
 3. Cauchy
 4. Pareto
 5. Poisson
-6.  --
+6.  Arcsine
 7.  --
 8.  --
 9.  --
