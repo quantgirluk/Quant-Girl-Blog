@@ -4,8 +4,7 @@ from matplotlib.gridspec import GridSpec
 from scipy.stats import cauchy
 import numpy as np
 
-plt.style.use(
-    "https://raw.githubusercontent.com/quantgirluk/matplotlib-stylesheets/main/quant-pastel-light.mplstyle")
+plt.style.use("https://raw.githubusercontent.com/quantgirluk/matplotlib-stylesheets/main/quant-pastel-light.mplstyle")
 
 title: str = f"\n Cauchy Distribution \n $X \\sim Cauchy(x_0, \\gamma)$"
 
