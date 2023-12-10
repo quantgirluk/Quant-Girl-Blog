@@ -12,10 +12,10 @@ This repo contains the Python scripts to create the images.
 4. Pareto
 5. Poisson
 6.  Arcsine
-7.  --
-8.  --
-9.  --
-10.  --
+7.  Student's t
+8.  Hypergeometric
+9.  Gamma
+10.  Laplace
 11.  --
 12.  --
 13.  --
