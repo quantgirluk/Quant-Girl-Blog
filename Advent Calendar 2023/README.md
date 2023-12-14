@@ -16,10 +16,10 @@ This repo contains the Python scripts to create the images.
 8.  Hypergeometric
 9.  Gamma
 10.  Laplace
-11.  --
-12.  --
-13.  --
-14.  --
+11.  F
+12.  Chi Squared
+13.  Exponential
+14.  Lognormal
 15.  --
 16.  --
 17.  --
