@@ -21,8 +21,7 @@ for (alpha, beta) in params:
     ax2.plot(x, rv.cdf(x), label=f"$\\mu={alpha},  \\sigma={beta}$")
 
 ax1.set_title(r'Probability Density Function', y=-0.18)
-# ax2.legend(loc='lower right')
-ax2.legend(loc='lower right', frameon=True, facecolor='white',  framealpha=1)
+ax2.legend(loc='lower right', frameon=True, facecolor='white', framealpha=1)
 ax2.set_title('Cumulative Distribution Function', y=-0.18)
 fig.suptitle(title)
 gs.tight_layout(fig)
