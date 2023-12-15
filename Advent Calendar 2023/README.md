@@ -20,7 +20,7 @@ This repo contains the Python scripts to create the images.
 12.  Chi Squared
 13.  Exponential
 14.  Lognormal
-15.  --
+15.  Chi
 16.  --
 17.  --
 18.  --
