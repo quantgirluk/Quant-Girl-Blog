@@ -21,7 +21,7 @@ This repo contains the Python scripts to create the images.
 13.  Exponential
 14.  Lognormal
 15.  Chi
-16.  --
+16.  Von Mises
 17.  --
 18.  --
 19.  --
