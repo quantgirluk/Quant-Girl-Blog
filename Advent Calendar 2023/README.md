@@ -22,7 +22,7 @@ This repo contains the Python scripts to create the images.
 14.  Lognormal
 15.  Chi
 16.  Von Mises
-17.  --
+17.  Generalised Extreme Value
 18.  --
 19.  --
 20.  --
