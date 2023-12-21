@@ -23,9 +23,9 @@ This repo contains the Python scripts to create the images.
 15.  Chi
 16.  Von Mises
 17.  Generalised Extreme Value
-18.  --
-19.  --
-20.  --
+18.  Wigner Semicircle
+19.  Zeta
+20.  Tracy-Widom 
 21.  --
 22.  --
 23.  --
