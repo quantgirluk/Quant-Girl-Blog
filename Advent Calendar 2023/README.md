@@ -26,8 +26,8 @@ This repo contains the Python scripts to create the images.
 18.  Wigner Semicircle
 19.  Zeta
 20.  Tracy-Widom 
-21.  --
-22.  --
-23.  --
-24.  --
+21.  Zero-One Inflated Beta
+22.  Marchenko Pastur
+23.  Two-Piece Normal
+24.  Normal
 
