@@ -15,7 +15,7 @@ ax2 = fig.add_subplot(gs[2:])
 
 params = [(0.0, 1.0, 1.0), (0.0, 0.5, 2.), (0.0, 1.0, 2.0), (-1.0, 2., 1.)]
 for (a, b, c) in params:
-    rv = tpnorm(loc=a, sigma1=b, sigma2=c, kind=None)
+    rv = tpnorm(loc=a, sigma1=b, sigma2=c)
     x = np.linspace(-7., 7., 1000)
     ax1.plot(x, rv.pdf(x), label=f"$\\mu={a},  b={b}$")
     x = np.linspace(-7., 7., 1000)
@@ -38,7 +38,7 @@ rv = norm(loc=0.0, scale=sigma1)
 plt.plot(x, rv.pdf(x), label="Left Half", linestyle="dotted", color="blue", lw=1.5)
 
 x = np.linspace(-4., 4., 1000)
-rv = tpnorm(loc=0.0, sigma1=sigma1, sigma2=sigma2, kind=None)
+rv = tpnorm(loc=0.0, sigma1=sigma1, sigma2=sigma2)
 plt.plot(x, rv.pdf(x), label="Two-Piece Normal", color="purple")
 plt.fill_between(x, rv.pdf(x), color="purple", alpha=0.2)
 
