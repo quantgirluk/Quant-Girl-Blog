@@ -27,7 +27,7 @@ df['Decade'] = [int(np.floor(year / 10) * 10) for year in np.array(df["year"])]
 df = df.dropna()
 
 
-fig, ax = plt.subplots(nrows=1, ncols=1, figsize=(12, 8), dpi=150)
+fig, ax = plt.subplots(nrows=1, ncols=1, figsize=(12, 6), dpi=150)
 box = df.boxplot(by='Decade', column='Returns', ax=ax, return_type='dict', patch_artist=True, notch=True)
 
 for patch, flier, median, color in zip(box['Returns']['boxes'],
