@@ -5,13 +5,15 @@ import yfinance as yf
 
 quant_pastel = "https://raw.githubusercontent.com/quantgirluk/matplotlib-stylesheets/main/quant-pastel-light.mplstyle"
 plt.style.use(quant_pastel)
+plt.rc('font', family='sans-serif')
+plt.rc('font', serif='Apple SD Gothic Neo')
+plt.rcParams.update({'font.size': 12})
 
 palette = px.colors.qualitative.Bold
 colors = [(a / 255, b / 255, c / 255) for (a, b, c) in [eval(p[4:-1]) for p in palette]]
 colors_transparent1 = [(a / 255, b / 255, c / 255, 0.7) for (a, b, c) in [eval(p[4:-1]) for p in palette]]
 colors_transparent2 = [(a / 255, b / 255, c / 255, 0.15) for (a, b, c) in [eval(p[4:-1]) for p in palette]]
 
-# data = yf.download('^SPX', interval='1wk')
 data = yf.download('^N225', interval='1wk')
 kind = 'standard'
 df = data
@@ -70,11 +72,10 @@ for (a, b), c in zip(zip(caps[0::2], caps[1::2]), colors):
 
 ax.grid(visible=False, axis='x')
 
-# ax.set_title('S\&P500 Historical Weekly Returns')
 ax.set_title('Nikkei 225 Historical Weekly Returns')
 ax.set_xlabel('Decade')
 ax.set_ylabel('Returns (\%)')
 plt.suptitle('')
-plt.savefig("../Figures/Nikkei225")
+plt.savefig("./charts/02_february_nikkei225")
 plt.show()
 
