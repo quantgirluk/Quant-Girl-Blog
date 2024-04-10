@@ -1,5 +1,3 @@
-# 2024 Charts
-
 <style>
 img
 {
@@ -7,9 +5,11 @@ img
     float:none;
     margin-left:auto;
     margin-right:auto;
-    width:75%;
+    width:60%;
 }
 </style>
+
+# 2024 Charts
 
 A repository containing code for the charts that I create for my website along the year. 
 
