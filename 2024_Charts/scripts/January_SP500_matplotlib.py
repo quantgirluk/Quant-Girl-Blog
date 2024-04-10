@@ -5,6 +5,9 @@ import yfinance as yf
 
 quant_pastel = "https://raw.githubusercontent.com/quantgirluk/matplotlib-stylesheets/main/quant-pastel-light.mplstyle"
 plt.style.use(quant_pastel)
+plt.rc('font', family='sans-serif')
+plt.rc('font', serif='Apple SD Gothic Neo')
+plt.rcParams.update({'font.size': 12})
 
 palette = px.colors.qualitative.Bold
 colors = [(a / 255, b / 255, c / 255) for (a, b, c) in [eval(p[4:-1]) for p in palette]]
@@ -28,7 +31,7 @@ df['Decade'] = [int(np.floor(year / 10) * 10) for year in np.array(df["year"])]
 df = df.dropna()
 
 
-fig, ax = plt.subplots(nrows=1, ncols=1, figsize=(12, 6), dpi=100)
+fig, ax = plt.subplots(nrows=1, ncols=1, figsize=(12, 7), dpi=100)
 box = df.boxplot(by='Decade', column='Returns', ax=ax, return_type='dict', patch_artist=True, notch=True)
 
 for patch, flier, median, color in zip(box['Returns']['boxes'],
