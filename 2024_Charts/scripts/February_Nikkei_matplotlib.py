@@ -76,6 +76,6 @@ ax.set_title('Nikkei 225 Historical Weekly Returns')
 ax.set_xlabel('Decade')
 ax.set_ylabel('Returns (\%)')
 plt.suptitle('')
-plt.savefig("./charts/02_february_nikkei225")
+plt.savefig("./charts/02_february_nikkei225", dpi=300)
 plt.show()
 
