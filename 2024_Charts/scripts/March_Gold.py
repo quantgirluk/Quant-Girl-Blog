@@ -5,14 +5,13 @@ import yfinance as yf
 
 quant_pastel = "https://raw.githubusercontent.com/quantgirluk/matplotlib-stylesheets/main/quant-pastel-light.mplstyle"
 plt.style.use(quant_pastel)
+plt.rcParams["figure.figsize"] = (10, 7)
+plt.rcParams["figure.dpi"] = 100
+plt.rc('font', family='sans-serif')
+plt.rc('font', serif='Apple SD Gothic Neo')
+plt.rcParams.update({'font.size': 12})
 
-palette = px.colors.qualitative.Bold
-colors = [(a / 255, b / 255, c / 255) for (a, b, c) in [eval(p[4:-1]) for p in palette]]
-colors_transparent1 = [(a / 255, b / 255, c / 255, 0.7) for (a, b, c) in [eval(p[4:-1]) for p in palette]]
-colors_transparent2 = [(a / 255, b / 255, c / 255, 0.15) for (a, b, c) in [eval(p[4:-1]) for p in palette]]
-
-data = yf.download('GC=F', interval='1wk')
-
-plt.figure(figsize=(12, 6))
-data['Close'].plot(color='blue', title="Gold\n Historical Index Close Value")
+data = yf.download('CC=F GC=F')
+data['High'].plot(title="Cocoa (CC) and Gold (GC)\n Futures Historical High Value")
+plt.savefig("./charts/03_march_gold_cocoa", dpi=300)
 plt.show()
