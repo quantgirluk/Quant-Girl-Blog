@@ -2,8 +2,15 @@
 
 A repository containing code for the charts that I create for my website along the year. 
 
-## January : SP500
+## January - SP500
 
-<p align="center">
- <img src="charts/01_january_sp500.png" width="75%">
- </p>
+<td style="text-align: center;">
+<img src="charts/01_january_sp500.png" alt="SP Box Plots" width="75%">
+</td>
+
+
+## February - Nikkei 225
+
+<td style="text-align: center;">
+<img src="charts/02_february_nikkei225.png" alt="SP Box Plots" width="75%">
+</td>
