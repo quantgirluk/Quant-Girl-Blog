@@ -8,7 +8,7 @@ Calendar details and code [Here](https://github.com/quantgirluk/Quant-Girl-Blog/
 | <img width="100%" src="Advent Calendar 2023/figures/24_Normal_Bonus.png"> | <img width="100%" src="Advent Calendar 2023/figures/02_Beta.png">        | <img width="100%" src="Advent Calendar 2023/figures/03_Cauchy.png">     |
 | <img width="100%" src="Advent Calendar 2023/figures/04_Pareto.png">                        | <img width="100%" src="Advent Calendar 2023/figures/05_Poisson.png">     | <img width="100%" src="Advent Calendar 2023/figures/16_VonMises_Bonus.png">    |
 | <img width="100%" src="Advent Calendar 2023/figures/18_WignerSemicircle.png">                     | <img width="100%" src="Advent Calendar 2023/figures/19_Zeta_Bonus1.png"> | <img width="100%" src="Advent Calendar 2023/figures/09_Gamma.png">      |
-| <img width="100%" src="Advent Calendar 2023/figures/10_Laplace.png">                       | <img width="100%" src="Advent Calendar 2023/figures/19_Zeta_Bonus2.png"> | <img width="100%" src="Advent Calendar 2023/figures/20_TracyWidom_Bonus.gif"> |
+| <img width="100%" src="Advent Calendar 2023/figures/10_Laplace.png">                       | <img width="100%" src="Advent Calendar 2023/figures/19_Zeta_Bonus2.png"> | <img width="100%" src="Advent Calendar 2023/figures/20_TracyWidom_Bonus.gif?raw=true"> |
 
 
 # Quant-Girl-Blog
