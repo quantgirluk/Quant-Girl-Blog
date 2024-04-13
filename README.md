@@ -1,7 +1,16 @@
-# Advent Calendar 2023
+# Quant-Girl-Blog
 
-This year I will use the countdown to Christmas 🎄 to review some probability distributions and will be sharing them in my blog and social networks.
-Calendar details and code [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Advent%20Calendar%202023).
+This repository contains files related to my [personal website](https://quantgirl.blog).
+
+⭐️ If you like this projet, please give it a star ⭐️
+
+## Advent Calendar 2023
+
+Last year, I used the countdown to Christmas 🎄 to review probability distributions and share some interesting facts about them.
+
+* [Advent Calendar Post](https://quantgirl.blog/advent-calendar-2023/)
+* Figures and code can be found  [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Advent%20Calendar%202023)  
+
 
 |                                                                       |                                                                          |                                                    |
 |-----------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------|
@@ -11,9 +20,7 @@ Calendar details and code [Here](https://github.com/quantgirluk/Quant-Girl-Blog/
 | <img width="100%" src="Advent Calendar 2023/figures/10_Laplace.png">                       | <img width="100%" src="Advent Calendar 2023/figures/19_Zeta_Bonus2.png"> | <img width="100%" src="Advent Calendar 2023/figures/20_TracyWidom_Bonus.gif?raw=true"> |
 
 
-# Quant-Girl-Blog
 
-This repository also contains files realted to my personal blog.
 
 Articles
 
