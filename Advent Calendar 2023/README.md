@@ -1,4 +1,4 @@
-# Advent 2023
+# Advent Calendar 2023
 
 This year I used the countdown to Christmas 🎄 to revisit some probability distributions and shared them in my blog and social networks.
 This repo contains the Python scripts to create the images.
