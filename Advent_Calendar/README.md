@@ -1,9 +1,11 @@
 # Advent Calendar 2023
 
-This year I used the countdown to Christmas 🎄 to revisit some probability distributions and shared them in my blog and social networks.
-This repo contains the Python scripts to create the images.
+I used the countdown to Christmas 🎄 to revisit some probability distributions and shared them in my 
+website and social networks.  To see the full calendar please visit my [post: Advent Calendar 2023.](https://quantgirl.blog/advent-calendar-2023/)
 
-For all the submissions visit my [Blog](https://quantgirl.blog/advent-calendar-2023/)
+This repo contains  the figures  as well as the Python scripts to make them.
+
+
 
 ## 1. Binomial
 <p align="center">
