@@ -9,15 +9,15 @@ This repository contains files related to my [personal website](https://quantgir
 Last year, I used the countdown to Christmas 🎄 to review probability distributions and share some interesting facts about them.
 
 * [Advent Calendar Post](https://quantgirl.blog/advent-calendar-2023/)
-* Figures and code can be found  [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Advent%20Calendar%202023)  
+* Figures and code can be found  [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Advent_Calendar)  
 
 
 |                                                                               |                                                                          |                                                                                        |
 |-------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| <img width="100%" src="Advent Calendar 2023/figures/24_Normal_Bonus.png">     | <img width="100%" src="Advent Calendar 2023/figures/02_Beta.png">        | <img width="100%" src="Advent Calendar 2023/figures/03_Cauchy.png">                    |
-| <img width="100%" src="Advent Calendar 2023/figures/04_Pareto.png">           | <img width="100%" src="Advent Calendar 2023/figures/05_Poisson.png">     | <img width="100%" src="Advent Calendar 2023/figures/16_VonMises_Bonus.png">            |
-| <img width="100%" src="Advent Calendar 2023/figures/18_WignerSemicircle.png"> | <img width="100%" src="Advent Calendar 2023/figures/19_Zeta_Bonus1.png"> | <img width="100%" src="Advent Calendar 2023/figures/09_Gamma.png">                     |
-| <img width="100%" src="Advent Calendar 2023/figures/10_Laplace.png">          | <img width="100%" src="Advent Calendar 2023/figures/19_Zeta_Bonus2.png"> | <img width="100%" src="Advent Calendar 2023/figures/20_TracyWidom_Bonus.gif?raw=true"> |
+| <img width="100%" src="Advent_Calendar/figures/24_Normal_Bonus.png">     | <img width="100%" src="Advent_Calendar/figures/02_Beta.png">        | <img width="100%" src="Advent_Calendar/figures/03_Cauchy.png">                    |
+| <img width="100%" src="Advent_Calendar/figures/04_Pareto.png">           | <img width="100%" src="Advent_Calendar/figures/05_Poisson.png">     | <img width="100%" src="Advent_Calendar/figures/16_VonMises_Bonus.png">            |
+| <img width="100%" src="Advent_Calendar/figures/18_WignerSemicircle.png"> | <img width="100%" src="Advent_Calendar/figures/19_Zeta_Bonus1.png"> | <img width="100%" src="Advent_Calendar/figures/09_Gamma.png">                     |
+| <img width="100%" src="Advent_Calendar/figures/10_Laplace.png">          | <img width="100%" src="Advent_Calendar/figures/19_Zeta_Bonus2.png"> | <img width="100%" src="Advent_Calendar/figures/20_TracyWidom_Bonus.gif?raw=true"> |
 
 
 
