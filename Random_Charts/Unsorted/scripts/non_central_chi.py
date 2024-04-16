@@ -27,7 +27,7 @@ ax2.set_title('Cumulative Distribution Function', y=-0.18)
 fig.suptitle(title)
 gs.tight_layout(fig)
 
-fig.savefig('non_central_chi_01')
+fig.savefig('../figures/non_central_chi_01')
 plt.show()
 
 title: str = f"\n Non-central Chi Distribution \n $X \\sim \chi (k=2, \\lambda)$"
@@ -50,5 +50,5 @@ ax2.set_title('Cumulative Distribution Function', y=-0.18)
 fig.suptitle(title)
 gs.tight_layout(fig)
 
-fig.savefig('non_central_chi_02')
+fig.savefig('../figures/non_central_chi_02')
 plt.show()
