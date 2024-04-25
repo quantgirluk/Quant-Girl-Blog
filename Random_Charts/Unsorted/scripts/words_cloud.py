@@ -4,16 +4,14 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from io import StringIO
 import numpy as np
-from wordcloud import ImageColorGenerator
 from PIL import Image
-
 
 from wordcloud import WordCloud
 from wordcloud import ImageColorGenerator
 import matplotlib.pyplot as plt
 
-def get_text_pdf(path):
 
+def get_text_pdf(path):
     resource_manager = PDFResourceManager()
     string_io = StringIO()
     la_params = LAParams()
@@ -51,14 +49,14 @@ word_cloud = WordCloud(font_path=font, mask=custom_mask,
                        max_words=500,
                        min_word_length=3,
                        max_font_size=300, min_font_size=30,
-                       background_color="white").generate(text)
+                       background_color="lavenderblush").generate(text)
 
 image_colors = ImageColorGenerator(custom_mask)
 word_cloud.recolor(color_func=image_colors)
 
-plt.figure(figsize=(20, 20))
+plt.figure(figsize=(10, 10))
 plt.imshow(word_cloud, interpolation="gaussian")
 plt.axis("off")
-
-plt.savefig('../figures/word_cloud.png')
+plt.tight_layout()
+plt.savefig('../figures/word_cloud.png', bbox_inches='tight')
 plt.show()
