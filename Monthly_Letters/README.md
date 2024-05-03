@@ -19,3 +19,11 @@ A repository containing code for the charts that I create for my website along t
 <p align="center">
 <img src="charts/03_march_gold_cocoa.png" alt="Time Series" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 </p>
+
+## April - Weekly Bitcoin Prices
+
+<p align="center">
+<img src="charts/04_april_bitcoin.png" alt="Time Series" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+</p>
+
+Interactive version is available [here](https://chart-studio.plotly.com/~quantgirluk/173).
