@@ -22,7 +22,7 @@ fig = make_subplots(specs=[[{"secondary_y": True}]],
 # Add traces
 fig.add_trace(
     go.Bar(x=btc.index, y=btc.returns, marker=dict(color=btc.returns_sign.map(colors)),
-           name="Bitcoin weakly % change"),
+           name="Bitcoin weekly % change"),
     secondary_y=False)
 
 fig.add_trace(
@@ -31,7 +31,7 @@ fig.add_trace(
     secondary_y=True)
 
 # Figure title and labels
-fig.update_layout(title_text="Bitcoin Weakly Movement", height=600, width=1000)
+fig.update_layout(title_text="Bitcoin Weekly Movement", height=600, width=1000)
 fig.update_xaxes(title_text="")
 fig.update_yaxes(title_text="<b></b>USD", secondary_y=True)
 fig.update_yaxes(title_text="<b></b>Percent", secondary_y=False)
