@@ -27,3 +27,13 @@ A repository containing code for the charts that I create for my website along t
 </p>
 
 Interactive version is available [here](https://chart-studio.plotly.com/~quantgirluk/173).
+
+## May - Nasdaq Composite Index Record High
+
+<p align="center">
+<img src="charts/05_may_nasdaq.png" alt="Time Series" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+</p>
+
+<p align="center">
+<img src="charts/05_may_nasdaq_largest_components.png" alt="Time Series" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+</p>
