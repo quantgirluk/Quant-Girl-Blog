@@ -1,4 +1,4 @@
-# Quant Girl Site Files
+# Quant Girl Files
 
 This repository contains files related to my [personal website](https://quantgirl.blog).
 
@@ -6,7 +6,7 @@ This repository contains files related to my [personal website](https://quantgir
 
 ## Monthly Letters
 
-This year, I started a monthly letter to share things that I found interesting, entertaining, or made me smile.
+This year, I started a monthly letter to share things that I found interesting, entertaining, or made me smile. Each letter contains a Chart of the Month made with Python. You can find the source code [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Monthly_Letters).
 
 - [January](https://quantgirl.blog/monthly-recap/)
 - [February](https://quantgirl.blog/monthly-recap-feb-2024/)
@@ -14,7 +14,6 @@ This year, I started a monthly letter to share things that I found interesting, 
 - [April](https://quantgirl.blog/monthly-recap-april-2024/)
 - [May](https://quantgirl.blog/monthly-recap-may-2024/)
 
-Each letter contains a Chart of the Month made with Python. You can find the source code [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Monthly_Letters).
 
 ## Advent Calendar 2023
 
