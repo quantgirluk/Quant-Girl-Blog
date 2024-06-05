@@ -6,7 +6,14 @@ This repository contains files related to my [personal website](https://quantgir
 
 ## Monthly Letters
 
-This year, I started a monthly letter to share things that I found interesting, entertaining, or made me smile. Each letter contains a Chart of the Month made with Python. You can find the source code [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Monthly_Letters).
+This year, I started a monthly letter to share things that I found interesting, entertaining, or made me smile. Each letter contains a Chart of the Month made with Python 🐍. You can find the source code [Here](https://github.com/quantgirluk/Quant-Girl-Blog/tree/master/Monthly_Letters).
+
+
+|                                                                   |                                                                      |                                                                                            |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <img width="100%" src="Monthly_Letters/charts/05_may_nasdaq.png"> | <img width="100%" src="Monthly_Letters/charts/04_april_bitcoin.png"> | <img width="100%" src="Monthly_Letters/charts/05_may_nasdaq_largest_components.png"><br /> |
+
+2024 Monthly Letters
 
 - [January](https://quantgirl.blog/monthly-recap/)
 - [February](https://quantgirl.blog/monthly-recap-feb-2024/)
