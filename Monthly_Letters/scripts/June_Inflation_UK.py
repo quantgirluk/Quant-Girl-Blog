@@ -82,7 +82,7 @@ with plt.style.context(style):
     # Adjust the margins around the plot area
     plt.subplots_adjust(left=None, bottom=0.15, right=None, top=0.85, wspace=None, hspace=None)
 
-    # plt.savefig(r"Figures/2023_CPI_Gov.png")
+    ax.figure.savefig("../charts/06_june_cpi_uk", dpi=200)
     plt.show()
 
 # ----------------------------------------------------------------
@@ -163,5 +163,5 @@ with plt.style.context(style):
 
     plt.legend(loc='upper right', ncol=1, fontsize='8')
     plt.grid(axis='both', color='0.95')
-    # plt.savefig(r"Figures/2023_Rate_Gov.png")
+    ax.figure.savefig("../charts/06_june_boe_rate", dpi=200)
     plt.show()
